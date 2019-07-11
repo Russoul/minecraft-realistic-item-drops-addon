@@ -1,0 +1,16 @@
+[
+{
+  "modid": "realdropsaddon",
+  "name": "Realistic Item Drops Addon",
+  "description": "A small addon for Realistic Item Drops that enables players to configure item auto-pick in-game, toggling the mode on/off or holding a key to auto-pickup",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RussoulMC"],
+  "credits": "Funwayguy, the author of Realistic Item Drops; FML team for making Minecraft Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["realdrops"]
+}
+]

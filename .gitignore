@@ -1,0 +1,7 @@
+/.gradle
+/.idea
+/build
+/libs
+/run
+/src/main/resources/assets/realdropsaddon/bytecode
+.DS_Store
