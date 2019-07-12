@@ -13,9 +13,13 @@ class ServerMsgHandlerToggleAutoPickup extends IMessageHandler[MsgToggleAutoPick
 
       if(RealDropsAddon.proxy.autoPickupConfigs.get(id).nonEmpty){
         RealDropsAddon.proxy.autoPickupConfigs(id) = !RealDropsAddon.proxy.autoPickupConfigs(id)
-        RealDropsAddon.proxy.autoPickupConfigsToggle(id) = !RealDropsAddon.proxy.autoPickupConfigsToggle(id)
       }else{
         RealDropsAddon.proxy.autoPickupConfigs(id) = true
+      }
+
+      if(RealDropsAddon.proxy.autoPickupConfigsToggle.get(id).nonEmpty){
+        RealDropsAddon.proxy.autoPickupConfigsToggle(id) = !RealDropsAddon.proxy.autoPickupConfigsToggle(id)
+      }else{
         RealDropsAddon.proxy.autoPickupConfigsToggle(id) = true
       }
     }
