@@ -11,7 +11,9 @@ You have two options available:
 1. ***toggle auto-pickup*** by pressing a key(defaults to `Z`, can be changed in controls) .  
 2. ***hold a key***(default is `ALT` on Windows/`Option` on Mac) to pickup items .  
 
-
+Video
+--------------
+[![video](https://img.youtube.com/vi/7A518w8C04M/0.jpg)](https://www.youtube.com/watch?v=7A518w8C04M&feature=youtu.be)
 
 Issues
 --------------
