@@ -8,7 +8,7 @@ It replaces the default per game configuration of auto-pickup(corresponding conf
 How To
 --------------
 You have two options available:  
-1. ***toggle auto-pick*** by pressing a key(defaults to `Z`, can be changed in controls) .  
+1. ***toggle auto-pickup*** by pressing a key(defaults to `Z`, can be changed in controls) .  
 2. ***hold a key***(default is `ALT` on Windows/`Option` on Mac) to pickup items .  
 
 
