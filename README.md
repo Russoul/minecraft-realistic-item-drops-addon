@@ -13,7 +13,7 @@ You have two options available:
 
 Video
 --------------
-[![video](https://img.youtube.com/vi/7A518w8C04M/0.jpg)](https://www.youtube.com/watch?v=7A518w8C04M&feature=youtu.be)
+[![video](https://img.youtube.com/vi/O6IDmrXXT8o/0.jpg)](https://www.youtube.com/watch?v=O6IDmrXXT8o)
 
 Issues
 --------------
